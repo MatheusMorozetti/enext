@@ -1,0 +1,53 @@
+.aging{
+    position: relative;
+    top: 250px;
+    left: 150px;
+}
+
+.bulgeye{
+    position: relative;
+    top: 22px;
+    left: 450px;
+}
+
+.dragon{
+    position: relative;
+    top: -200px;
+    left: 750px;
+}
+
+.love{
+    position: relative;
+    top: -170px;
+    left: 150px;
+}   
+
+.polyjuice{
+    position: relative;
+    top: -400px;
+    left: 450px;
+}   
+
+.sleeping{
+    position: relative;
+    top: -620px;
+    left: 750px;
+}
+
+.facebook {
+    position: absolute;
+    top: 100px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    border-radius: 3px;
+    left: 100px;    
+}
+
+.twitter {
+    position: absolute;
+    top: 100px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    border-radius: 3px;
+    left: 150px;    
+}

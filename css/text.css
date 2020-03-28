@@ -1,0 +1,111 @@
+.agingText {
+    position: relative;
+    top: 250px;
+    left: 155px;
+    color: black;
+    font-size: small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .agingPrice {
+    position: relative;
+    top: 220px;
+    left: 255px;
+    color: red;
+    font-size: small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .bulgeyeText {
+    position: relative;
+    top: 22px;
+    left: 450px;
+    color: black;
+    font-size: small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .bulgeyePrice {
+    position: relative;
+    top: -7px;
+    left: 565px;
+    color: red;
+    font-size: small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .dragonText {
+    position: relative;
+    top: -200px;
+    left: 750px;
+    color: black;
+    font-size: small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .dragonPrice {
+    position: relative;
+    top: -230px;
+    left: 855px;
+    color: red;
+    font-size: small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .loveText {
+    position: relative;
+    top: -170px;
+    left: 155px;
+    color: black;
+    font-size: small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .lovePrice {
+    position: relative;
+    top: -200px;
+    left: 250px;
+    color: red;
+    font-size: small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .polyjuiceText {
+    position: relative;
+    top: -395px;
+    left: 450px;
+    color: black;
+    font-size: small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .polyjuicePrice {
+    position: relative;
+    top: -424px;
+    left: 580px;
+    color: red;
+    font-size: small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .sleepingText {
+    position: relative;
+    top: -610px;
+    left: 750px;
+    color: black;
+    font-size: small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .sleepingPrice {
+    position: relative;
+    top: -640px;
+    left: 875px;
+    color: red;
+    font-size: small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .rights {
+    position: absolute;
+    font-size: small;
+    top: 120px;
+    left: 105px;;
+    color: grey
+  }
